@@ -1,5 +1,4 @@
-Youtube data scraping course project for Digital Business Analytics (DS-464)
-We will be using Formula 1 Channel on Youtube
+Youtube Data Scraping Course Project: Digital Business Analytics (DS-464)
 =======
 # 🏎️ Formula 1 Data Analytics Dashboard
 
@@ -173,4 +172,3 @@ This project is developed for **academic and educational purposes**.
 This repository demonstrates a **complete data analytics lifecycle**, from raw data exploration to predictive insights, while following **industry-standard Git practices**.
 
 If you find this project useful, feel free to ⭐ the repository!
->>>>>>> 10231d243c4568e5b36e60521c9c081ca25932eb
