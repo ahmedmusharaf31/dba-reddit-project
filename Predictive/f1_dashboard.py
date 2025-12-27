@@ -660,7 +660,7 @@ def main():
         st.metric("Median Score", f"{median_score:.1f}")
     
     # Main visualization tabs
-    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Overall Rankings", "Driver Analysis", "Team Analysis", "Detailed Data", "YouTube Analytics", "Predictive Analytics"])
+    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Overall Rankings", "Driver Analysis", "Team Analysis", "Detailed Data", "Descriptive Analytics", "Predictive Analytics"])
     
     with tab1:
         st.markdown("### Driver Composite Scores")
@@ -830,7 +830,7 @@ def main():
         )
 
     with tab5:
-        st.markdown("### YouTube Analytics Dashboard")
+        st.markdown("### Descriptive Analytics Dashboard")
 
         # Load YouTube data
         youtube_data = load_youtube_analytics_data()
