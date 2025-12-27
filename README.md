@@ -132,9 +132,9 @@ f1_data_cache/
 
 To recreate data or results:
 
-1. Run the main_script.py
-2. Run the F1_dashbaord via this command: python -m streamlit run f1_dashboard.py
-3. Enjoy!
+1. Run the F1_dashbaord via this command: python -m streamlit run f1_dashboard.py
+   (It will take some time to run for the very first time, then it will store the data in the cache)
+2. Enjoy!
 
 No committed binary or database files are required.
 
@@ -151,8 +151,8 @@ No committed binary or database files are required.
 
 ## 👨‍💻 Contributors
 
-* **Ahmed Musharaf**
 * **Saaim**
+* **Ahmed Musharaf**
 * Project collaborators
 
 ---
