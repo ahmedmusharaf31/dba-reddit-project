@@ -836,7 +836,7 @@ def main():
         youtube_data = load_youtube_analytics_data()
 
         if youtube_data:
-            st.success("✅ YouTube analytics data loaded successfully!")
+            st.success("YouTube analytics data loaded successfully!")
 
             # Video Performance Metrics
             st.markdown("#### Video Performance Overview")
