@@ -178,8 +178,8 @@ No committed binary or database files are required.
 
 ## 👨‍💻 Contributors
 
-* **Saaim Ali Khan**
 * **Ahmed Musharaf**
+* **Saaim Ali Khan**
 * **Muhammad Arsal** 
 
 ---
