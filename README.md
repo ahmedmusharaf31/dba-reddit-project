@@ -180,6 +180,7 @@ No committed binary or database files are required.
 
 * **Saaim Ali Khan**
 * **Ahmed Musharaf**
+* **Muhammad Arsal** 
 
 ---
 
